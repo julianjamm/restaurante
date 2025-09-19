@@ -48,7 +48,7 @@ a { color: inherit; text-decoration: none; }
 
 .hero {
   text-align: center;
-  padding: 80px 20px;
+  padding: 100px 20px;
   background: url('imagen/ambiente_elegante.jpg') center/cover no-repeat;
   border-radius: var(--radius);
   position: relative;
